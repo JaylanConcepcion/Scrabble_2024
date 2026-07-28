@@ -1,2 +1,2 @@
 # Projects
-My Projects
+Object Oriented Concept Scrabble Project
